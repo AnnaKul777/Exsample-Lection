@@ -1,0 +1,15 @@
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\bin\Debug\net6.0\EXSAMLE_1.exe
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\bin\Debug\net6.0\EXSAMLE_1.deps.json
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\bin\Debug\net6.0\EXSAMLE_1.runtimeconfig.json
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\bin\Debug\net6.0\EXSAMLE_1.dll
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\bin\Debug\net6.0\EXSAMLE_1.pdb
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\obj\Debug\net6.0\EXSAMLE_1.csproj.AssemblyReference.cache
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\obj\Debug\net6.0\EXSAMLE_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\obj\Debug\net6.0\EXSAMLE_1.AssemblyInfoInputs.cache
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\obj\Debug\net6.0\EXSAMLE_1.AssemblyInfo.cs
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\obj\Debug\net6.0\EXSAMLE_1.csproj.CoreCompileInputs.cache
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\obj\Debug\net6.0\EXSAMLE_1.dll
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\obj\Debug\net6.0\refint\EXSAMLE_1.dll
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\obj\Debug\net6.0\EXSAMLE_1.pdb
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\obj\Debug\net6.0\EXSAMLE_1.genruntimeconfig.cache
+C:\Users\QueenAnna\Desktop\Exsample\EXSAMLE_1\obj\Debug\net6.0\ref\EXSAMLE_1.dll
